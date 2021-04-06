@@ -46,6 +46,9 @@ An alternative to displaying the gif through this could be to display an interna
 Something I wanted to do was to overlay a string on top of the gif where I greeted the person.
 This would be done through a textinput above the button and the value of the id would be brought to the fragment where the presented text would be modified per input.
 
+You are then greeted by the following gif
+
+![](/app/src/main/assets/hello.gif)
 
 
 

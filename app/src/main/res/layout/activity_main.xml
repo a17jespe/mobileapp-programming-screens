@@ -6,19 +6,18 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <FrameLayout
+    <TableRow
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
         <Button
             android:id="@+id/MA1_button"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginStart="125dp"
-            android:layout_marginLeft="125dp"
-            android:layout_marginTop="275dp"
-            android:textSize="36sp"
-            tools:text="@string/MA1_button" />
-    </FrameLayout>
+            android:layout_gravity="center_vertical"
+            android:text="@string/MA1_button"
+            android:textSize="36sp" />
+
+    </TableRow>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

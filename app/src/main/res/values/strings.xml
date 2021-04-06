@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Screens</string>
     <string name="MA1_button">Click me</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="entered_name">Placeholder</string>
+    <string name="enter_name_hint">Please enter your name</string>
 </resources>
